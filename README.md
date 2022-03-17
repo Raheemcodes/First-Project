@@ -1,6 +1,6 @@
 # First-Project
 
-This is a demo website made with HTML, CSS and pure JS
+This is a demo website made with HTML, CSS and pure JS / webpack bundler
 
 ##Features
 
